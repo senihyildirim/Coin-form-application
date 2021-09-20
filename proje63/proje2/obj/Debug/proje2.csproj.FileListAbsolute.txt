@@ -1,0 +1,235 @@
+C:\Users\Senih YILDIRIM\source\repos\proje2\proje2\bin\Debug\proje2.exe.config
+C:\Users\Senih YILDIRIM\source\repos\proje2\proje2\bin\Debug\proje2.exe
+C:\Users\Senih YILDIRIM\source\repos\proje2\proje2\bin\Debug\proje2.pdb
+C:\Users\Senih YILDIRIM\source\repos\proje2\proje2\obj\Debug\proje2.csprojAssemblyReference.cache
+C:\Users\Senih YILDIRIM\source\repos\proje2\proje2\obj\Debug\proje2.Form1.resources
+C:\Users\Senih YILDIRIM\source\repos\proje2\proje2\obj\Debug\proje2.Properties.Resources.resources
+C:\Users\Senih YILDIRIM\source\repos\proje2\proje2\obj\Debug\proje2.csproj.GenerateResource.cache
+C:\Users\Senih YILDIRIM\source\repos\proje2\proje2\obj\Debug\proje2.csproj.CoreCompileInputs.cache
+C:\Users\Senih YILDIRIM\source\repos\proje2\proje2\obj\Debug\proje2.exe
+C:\Users\Senih YILDIRIM\source\repos\proje2\proje2\obj\Debug\proje2.pdb
+C:\Users\Senih YILDIRIM\source\repos\proje2\proje2\obj\Debug\proje2.hesap.resources
+C:\Users\Senih YILDIRIM\source\repos\proje2\proje2\obj\Debug\proje2.kartekle.resources
+C:\Users\Senih YILDIRIM\source\repos\proje2\proje2\obj\Debug\proje2.kayitol.resources
+C:\Users\Senih YILDIRIM\source\repos\proje2\proje2\obj\Debug\proje2.alsat.resources
+C:\Users\Senih YILDIRIM\source\repos\proje2\proje2\obj\Debug\proje2.borsa.resources
+C:\Users\Senih YILDIRIM\source\repos\proje2\proje2\obj\Debug\proje2.iletisim.resources
+C:\Users\Senih YILDIRIM\source\repos\proje2\proje2\bin\Debug\vtt2.mdb
+C:\Users\berat\Desktop\proje2\proje2\bin\Debug\vtt2.mdb
+C:\Users\berat\Desktop\proje2\proje2\bin\Debug\proje2.exe.config
+C:\Users\berat\Desktop\proje2\proje2\bin\Debug\proje2.exe
+C:\Users\berat\Desktop\proje2\proje2\bin\Debug\proje2.pdb
+C:\Users\berat\Desktop\proje2\proje2\obj\Debug\proje2.csprojAssemblyReference.cache
+C:\Users\berat\Desktop\proje2\proje2\obj\Debug\proje2.alsat.resources
+C:\Users\berat\Desktop\proje2\proje2\obj\Debug\proje2.borsa.resources
+C:\Users\berat\Desktop\proje2\proje2\obj\Debug\proje2.Form1.resources
+C:\Users\berat\Desktop\proje2\proje2\obj\Debug\proje2.hesap.resources
+C:\Users\berat\Desktop\proje2\proje2\obj\Debug\proje2.iletisim.resources
+C:\Users\berat\Desktop\proje2\proje2\obj\Debug\proje2.kartekle.resources
+C:\Users\berat\Desktop\proje2\proje2\obj\Debug\proje2.kayitol.resources
+C:\Users\berat\Desktop\proje2\proje2\obj\Debug\proje2.Properties.Resources.resources
+C:\Users\berat\Desktop\proje2\proje2\obj\Debug\proje2.csproj.GenerateResource.cache
+C:\Users\berat\Desktop\proje2\proje2\obj\Debug\proje2.csproj.CoreCompileInputs.cache
+C:\Users\berat\Desktop\proje2\proje2\obj\Debug\proje2.exe
+C:\Users\berat\Desktop\proje2\proje2\obj\Debug\proje2.pdb
+C:\Users\Senih YILDIRIM\Desktop\proje3\proje2\bin\Debug\vtt2.mdb
+C:\Users\Senih YILDIRIM\Desktop\proje3\proje2\bin\Debug\proje2.exe.config
+C:\Users\Senih YILDIRIM\Desktop\proje3\proje2\bin\Debug\proje2.exe
+C:\Users\Senih YILDIRIM\Desktop\proje3\proje2\bin\Debug\proje2.pdb
+C:\Users\Senih YILDIRIM\Desktop\proje3\proje2\obj\Debug\proje2.csprojAssemblyReference.cache
+C:\Users\Senih YILDIRIM\Desktop\proje3\proje2\obj\Debug\proje2.alsat.resources
+C:\Users\Senih YILDIRIM\Desktop\proje3\proje2\obj\Debug\proje2.borsa.resources
+C:\Users\Senih YILDIRIM\Desktop\proje3\proje2\obj\Debug\proje2.Form1.resources
+C:\Users\Senih YILDIRIM\Desktop\proje3\proje2\obj\Debug\proje2.hesap.resources
+C:\Users\Senih YILDIRIM\Desktop\proje3\proje2\obj\Debug\proje2.iletisim.resources
+C:\Users\Senih YILDIRIM\Desktop\proje3\proje2\obj\Debug\proje2.kartekle.resources
+C:\Users\Senih YILDIRIM\Desktop\proje3\proje2\obj\Debug\proje2.kayitol.resources
+C:\Users\Senih YILDIRIM\Desktop\proje3\proje2\obj\Debug\proje2.Properties.Resources.resources
+C:\Users\Senih YILDIRIM\Desktop\proje3\proje2\obj\Debug\proje2.csproj.GenerateResource.cache
+C:\Users\Senih YILDIRIM\Desktop\proje3\proje2\obj\Debug\proje2.csproj.CoreCompileInputs.cache
+C:\Users\Senih YILDIRIM\Desktop\proje3\proje2\obj\Debug\proje2.exe
+C:\Users\Senih YILDIRIM\Desktop\proje3\proje2\obj\Debug\proje2.pdb
+C:\Users\BatuhanPC\Documents\proje3\proje2\bin\Debug\vtt2.mdb
+C:\Users\BatuhanPC\Documents\proje3\proje2\bin\Debug\proje2.exe.config
+C:\Users\BatuhanPC\Documents\proje3\proje2\bin\Debug\proje2.exe
+C:\Users\BatuhanPC\Documents\proje3\proje2\bin\Debug\proje2.pdb
+C:\Users\BatuhanPC\Documents\proje3\proje2\obj\Debug\proje2.csprojResolveAssemblyReference.cache
+C:\Users\BatuhanPC\Documents\proje3\proje2\obj\Debug\proje2.alsat.resources
+C:\Users\BatuhanPC\Documents\proje3\proje2\obj\Debug\proje2.borsa.resources
+C:\Users\BatuhanPC\Documents\proje3\proje2\obj\Debug\proje2.Form1.resources
+C:\Users\BatuhanPC\Documents\proje3\proje2\obj\Debug\proje2.hesap.resources
+C:\Users\BatuhanPC\Documents\proje3\proje2\obj\Debug\proje2.iletisim.resources
+C:\Users\BatuhanPC\Documents\proje3\proje2\obj\Debug\proje2.kartekle.resources
+C:\Users\BatuhanPC\Documents\proje3\proje2\obj\Debug\proje2.kayitol.resources
+C:\Users\BatuhanPC\Documents\proje3\proje2\obj\Debug\proje2.Properties.Resources.resources
+C:\Users\BatuhanPC\Documents\proje3\proje2\obj\Debug\proje2.csproj.GenerateResource.Cache
+C:\Users\BatuhanPC\Documents\proje3\proje2\obj\Debug\proje2.csproj.CoreCompileInputs.cache
+C:\Users\BatuhanPC\Documents\proje3\proje2\obj\Debug\proje2.exe
+C:\Users\BatuhanPC\Documents\proje3\proje2\obj\Debug\proje2.pdb
+C:\Users\Senih YILDIRIM\Desktop\proje5\proje2\bin\Debug\vtt2.mdb
+C:\Users\Senih YILDIRIM\Desktop\proje5\proje2\bin\Debug\proje2.exe.config
+C:\Users\Senih YILDIRIM\Desktop\proje5\proje2\bin\Debug\proje2.exe
+C:\Users\Senih YILDIRIM\Desktop\proje5\proje2\bin\Debug\proje2.pdb
+C:\Users\Senih YILDIRIM\Desktop\proje5\proje2\obj\Debug\proje2.csprojAssemblyReference.cache
+C:\Users\Senih YILDIRIM\Desktop\proje5\proje2\obj\Debug\proje2.alsat.resources
+C:\Users\Senih YILDIRIM\Desktop\proje5\proje2\obj\Debug\proje2.borsa.resources
+C:\Users\Senih YILDIRIM\Desktop\proje5\proje2\obj\Debug\proje2.Form1.resources
+C:\Users\Senih YILDIRIM\Desktop\proje5\proje2\obj\Debug\proje2.hesap.resources
+C:\Users\Senih YILDIRIM\Desktop\proje5\proje2\obj\Debug\proje2.iletisim.resources
+C:\Users\Senih YILDIRIM\Desktop\proje5\proje2\obj\Debug\proje2.kartekle.resources
+C:\Users\Senih YILDIRIM\Desktop\proje5\proje2\obj\Debug\proje2.kayitol.resources
+C:\Users\Senih YILDIRIM\Desktop\proje5\proje2\obj\Debug\proje2.Properties.Resources.resources
+C:\Users\Senih YILDIRIM\Desktop\proje5\proje2\obj\Debug\proje2.csproj.GenerateResource.cache
+C:\Users\Senih YILDIRIM\Desktop\proje5\proje2\obj\Debug\proje2.csproj.CoreCompileInputs.cache
+C:\Users\Senih YILDIRIM\Desktop\proje5\proje2\obj\Debug\proje2.exe
+C:\Users\Senih YILDIRIM\Desktop\proje5\proje2\obj\Debug\proje2.pdb
+C:\Users\BatuhanPC\Documents\proje5\proje2\bin\Debug\vtt2.mdb
+C:\Users\BatuhanPC\Documents\proje5\proje2\bin\Debug\proje2.exe.config
+C:\Users\BatuhanPC\Documents\proje5\proje2\bin\Debug\proje2.exe
+C:\Users\BatuhanPC\Documents\proje5\proje2\bin\Debug\proje2.pdb
+C:\Users\BatuhanPC\Documents\proje5\proje2\obj\Debug\proje2.csprojResolveAssemblyReference.cache
+C:\Users\BatuhanPC\Documents\proje5\proje2\obj\Debug\proje2.alsat.resources
+C:\Users\BatuhanPC\Documents\proje5\proje2\obj\Debug\proje2.borsa.resources
+C:\Users\BatuhanPC\Documents\proje5\proje2\obj\Debug\proje2.Form1.resources
+C:\Users\BatuhanPC\Documents\proje5\proje2\obj\Debug\proje2.hesap.resources
+C:\Users\BatuhanPC\Documents\proje5\proje2\obj\Debug\proje2.iletisim.resources
+C:\Users\BatuhanPC\Documents\proje5\proje2\obj\Debug\proje2.kartekle.resources
+C:\Users\BatuhanPC\Documents\proje5\proje2\obj\Debug\proje2.kayitol.resources
+C:\Users\BatuhanPC\Documents\proje5\proje2\obj\Debug\proje2.Properties.Resources.resources
+C:\Users\BatuhanPC\Documents\proje5\proje2\obj\Debug\proje2.csproj.GenerateResource.Cache
+C:\Users\BatuhanPC\Documents\proje5\proje2\obj\Debug\proje2.csproj.CoreCompileInputs.cache
+C:\Users\BatuhanPC\Documents\proje5\proje2\obj\Debug\proje2.exe
+C:\Users\BatuhanPC\Documents\proje5\proje2\obj\Debug\proje2.pdb
+C:\Users\Senih YILDIRIM\Desktop\proje6\proje2\bin\Debug\vtt2.mdb
+C:\Users\Senih YILDIRIM\Desktop\proje6\proje2\bin\Debug\proje2.exe.config
+C:\Users\Senih YILDIRIM\Desktop\proje6\proje2\bin\Debug\proje2.exe
+C:\Users\Senih YILDIRIM\Desktop\proje6\proje2\bin\Debug\proje2.pdb
+C:\Users\Senih YILDIRIM\Desktop\proje6\proje2\obj\Debug\proje2.csprojAssemblyReference.cache
+C:\Users\Senih YILDIRIM\Desktop\proje6\proje2\obj\Debug\proje2.alsat.resources
+C:\Users\Senih YILDIRIM\Desktop\proje6\proje2\obj\Debug\proje2.borsa.resources
+C:\Users\Senih YILDIRIM\Desktop\proje6\proje2\obj\Debug\proje2.Form1.resources
+C:\Users\Senih YILDIRIM\Desktop\proje6\proje2\obj\Debug\proje2.hesap.resources
+C:\Users\Senih YILDIRIM\Desktop\proje6\proje2\obj\Debug\proje2.iletisim.resources
+C:\Users\Senih YILDIRIM\Desktop\proje6\proje2\obj\Debug\proje2.kartekle.resources
+C:\Users\Senih YILDIRIM\Desktop\proje6\proje2\obj\Debug\proje2.kayitol.resources
+C:\Users\Senih YILDIRIM\Desktop\proje6\proje2\obj\Debug\proje2.Properties.Resources.resources
+C:\Users\Senih YILDIRIM\Desktop\proje6\proje2\obj\Debug\proje2.csproj.GenerateResource.cache
+C:\Users\Senih YILDIRIM\Desktop\proje6\proje2\obj\Debug\proje2.csproj.CoreCompileInputs.cache
+C:\Users\Senih YILDIRIM\Desktop\proje6\proje2\obj\Debug\proje2.exe
+C:\Users\Senih YILDIRIM\Desktop\proje6\proje2\obj\Debug\proje2.pdb
+C:\Users\berat\Desktop\proje6\proje2\bin\Debug\proje2.exe.config
+C:\Users\berat\Desktop\proje6\proje2\bin\Debug\proje2.exe
+C:\Users\berat\Desktop\proje6\proje2\bin\Debug\proje2.pdb
+C:\Users\berat\Desktop\proje6\proje2\obj\Debug\proje2.csprojAssemblyReference.cache
+C:\Users\berat\Desktop\proje6\proje2\obj\Debug\proje2.alsat.resources
+C:\Users\berat\Desktop\proje6\proje2\obj\Debug\proje2.borsa.resources
+C:\Users\berat\Desktop\proje6\proje2\obj\Debug\proje2.Form1.resources
+C:\Users\berat\Desktop\proje6\proje2\obj\Debug\proje2.hesap.resources
+C:\Users\berat\Desktop\proje6\proje2\obj\Debug\proje2.iletisim.resources
+C:\Users\berat\Desktop\proje6\proje2\obj\Debug\proje2.kartekle.resources
+C:\Users\berat\Desktop\proje6\proje2\obj\Debug\proje2.kayitol.resources
+C:\Users\berat\Desktop\proje6\proje2\obj\Debug\proje2.Properties.Resources.resources
+C:\Users\berat\Desktop\proje6\proje2\obj\Debug\proje2.csproj.GenerateResource.cache
+C:\Users\berat\Desktop\proje6\proje2\obj\Debug\proje2.csproj.CoreCompileInputs.cache
+C:\Users\berat\Desktop\proje6\proje2\obj\Debug\proje2.exe
+C:\Users\berat\Desktop\proje6\proje2\obj\Debug\proje2.pdb
+C:\Users\berat\Desktop\proje6\proje2\bin\Debug\vtt3.mdb
+C:\Users\Senih YILDIRIM\Desktop\proje8\proje2\bin\Debug\vtt3.mdb
+C:\Users\Senih YILDIRIM\Desktop\proje8\proje2\bin\Debug\proje2.exe.config
+C:\Users\Senih YILDIRIM\Desktop\proje8\proje2\bin\Debug\proje2.exe
+C:\Users\Senih YILDIRIM\Desktop\proje8\proje2\bin\Debug\proje2.pdb
+C:\Users\Senih YILDIRIM\Desktop\proje8\proje2\obj\Debug\proje2.csprojAssemblyReference.cache
+C:\Users\Senih YILDIRIM\Desktop\proje8\proje2\obj\Debug\proje2.alsat.resources
+C:\Users\Senih YILDIRIM\Desktop\proje8\proje2\obj\Debug\proje2.borsa.resources
+C:\Users\Senih YILDIRIM\Desktop\proje8\proje2\obj\Debug\proje2.Form1.resources
+C:\Users\Senih YILDIRIM\Desktop\proje8\proje2\obj\Debug\proje2.hesap.resources
+C:\Users\Senih YILDIRIM\Desktop\proje8\proje2\obj\Debug\proje2.iletisim.resources
+C:\Users\Senih YILDIRIM\Desktop\proje8\proje2\obj\Debug\proje2.kartekle.resources
+C:\Users\Senih YILDIRIM\Desktop\proje8\proje2\obj\Debug\proje2.kayitol.resources
+C:\Users\Senih YILDIRIM\Desktop\proje8\proje2\obj\Debug\proje2.Properties.Resources.resources
+C:\Users\Senih YILDIRIM\Desktop\proje8\proje2\obj\Debug\proje2.csproj.GenerateResource.cache
+C:\Users\Senih YILDIRIM\Desktop\proje8\proje2\obj\Debug\proje2.csproj.CoreCompileInputs.cache
+C:\Users\Senih YILDIRIM\Desktop\proje8\proje2\obj\Debug\proje2.exe
+C:\Users\Senih YILDIRIM\Desktop\proje8\proje2\obj\Debug\proje2.pdb
+C:\Users\Senih YILDIRIM\Desktop\proje8\proje2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Senih YILDIRIM\Desktop\proje8\proje2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Senih YILDIRIM\Desktop\proje8\proje2\obj\Debug\proje2.csproj.CopyComplete
+C:\Users\tubak\Desktop\proje8\proje2\bin\Debug\vtt3.mdb
+C:\Users\tubak\Desktop\proje8\proje2\bin\Debug\proje2.exe.config
+C:\Users\tubak\Desktop\proje8\proje2\bin\Debug\proje2.exe
+C:\Users\tubak\Desktop\proje8\proje2\bin\Debug\proje2.pdb
+C:\Users\tubak\Desktop\proje8\proje2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tubak\Desktop\proje8\proje2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tubak\Desktop\proje8\proje2\obj\Debug\proje2.csprojAssemblyReference.cache
+C:\Users\tubak\Desktop\proje8\proje2\obj\Debug\proje2.alsat.resources
+C:\Users\tubak\Desktop\proje8\proje2\obj\Debug\proje2.borsa.resources
+C:\Users\tubak\Desktop\proje8\proje2\obj\Debug\proje2.Form1.resources
+C:\Users\tubak\Desktop\proje8\proje2\obj\Debug\proje2.hesap.resources
+C:\Users\tubak\Desktop\proje8\proje2\obj\Debug\proje2.iletisim.resources
+C:\Users\tubak\Desktop\proje8\proje2\obj\Debug\proje2.kartekle.resources
+C:\Users\tubak\Desktop\proje8\proje2\obj\Debug\proje2.kayitol.resources
+C:\Users\tubak\Desktop\proje8\proje2\obj\Debug\proje2.Properties.Resources.resources
+C:\Users\tubak\Desktop\proje8\proje2\obj\Debug\proje2.csproj.GenerateResource.cache
+C:\Users\tubak\Desktop\proje8\proje2\obj\Debug\proje2.csproj.CoreCompileInputs.cache
+C:\Users\tubak\Desktop\proje8\proje2\obj\Debug\proje2.csproj.CopyComplete
+C:\Users\tubak\Desktop\proje8\proje2\obj\Debug\proje2.exe
+C:\Users\tubak\Desktop\proje8\proje2\obj\Debug\proje2.pdb
+C:\Users\BatuhanPC\Documents\proje8\proje2\bin\Debug\vtt3.mdb
+C:\Users\BatuhanPC\Documents\proje8\proje2\bin\Debug\proje2.exe.config
+C:\Users\BatuhanPC\Documents\proje8\proje2\bin\Debug\proje2.exe
+C:\Users\BatuhanPC\Documents\proje8\proje2\bin\Debug\proje2.pdb
+C:\Users\BatuhanPC\Documents\proje8\proje2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BatuhanPC\Documents\proje8\proje2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BatuhanPC\Documents\proje8\proje2\obj\Debug\proje2.csprojResolveAssemblyReference.cache
+C:\Users\BatuhanPC\Documents\proje8\proje2\obj\Debug\proje2.alsat.resources
+C:\Users\BatuhanPC\Documents\proje8\proje2\obj\Debug\proje2.borsa.resources
+C:\Users\BatuhanPC\Documents\proje8\proje2\obj\Debug\proje2.Form1.resources
+C:\Users\BatuhanPC\Documents\proje8\proje2\obj\Debug\proje2.hesap.resources
+C:\Users\BatuhanPC\Documents\proje8\proje2\obj\Debug\proje2.iletisim.resources
+C:\Users\BatuhanPC\Documents\proje8\proje2\obj\Debug\proje2.kartekle.resources
+C:\Users\BatuhanPC\Documents\proje8\proje2\obj\Debug\proje2.kayitol.resources
+C:\Users\BatuhanPC\Documents\proje8\proje2\obj\Debug\proje2.Properties.Resources.resources
+C:\Users\BatuhanPC\Documents\proje8\proje2\obj\Debug\proje2.csproj.GenerateResource.Cache
+C:\Users\BatuhanPC\Documents\proje8\proje2\obj\Debug\proje2.csproj.CoreCompileInputs.cache
+C:\Users\BatuhanPC\Documents\proje8\proje2\obj\Debug\proje2.exe
+C:\Users\BatuhanPC\Documents\proje8\proje2\obj\Debug\proje2.pdb
+C:\Users\Senih YILDIRIM\Desktop\proje8sonsonson\proje2\bin\Debug\vtt3.mdb
+C:\Users\Senih YILDIRIM\Desktop\proje8sonsonson\proje2\bin\Debug\proje2.exe.config
+C:\Users\Senih YILDIRIM\Desktop\proje8sonsonson\proje2\bin\Debug\proje2.exe
+C:\Users\Senih YILDIRIM\Desktop\proje8sonsonson\proje2\bin\Debug\proje2.pdb
+C:\Users\Senih YILDIRIM\Desktop\proje8sonsonson\proje2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Senih YILDIRIM\Desktop\proje8sonsonson\proje2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Senih YILDIRIM\Desktop\proje8sonsonson\proje2\obj\Debug\proje2.csprojAssemblyReference.cache
+C:\Users\Senih YILDIRIM\Desktop\proje8sonsonson\proje2\obj\Debug\proje2.alsat.resources
+C:\Users\Senih YILDIRIM\Desktop\proje8sonsonson\proje2\obj\Debug\proje2.borsa.resources
+C:\Users\Senih YILDIRIM\Desktop\proje8sonsonson\proje2\obj\Debug\proje2.Form1.resources
+C:\Users\Senih YILDIRIM\Desktop\proje8sonsonson\proje2\obj\Debug\proje2.hesap.resources
+C:\Users\Senih YILDIRIM\Desktop\proje8sonsonson\proje2\obj\Debug\proje2.iletisim.resources
+C:\Users\Senih YILDIRIM\Desktop\proje8sonsonson\proje2\obj\Debug\proje2.kartekle.resources
+C:\Users\Senih YILDIRIM\Desktop\proje8sonsonson\proje2\obj\Debug\proje2.kayitol.resources
+C:\Users\Senih YILDIRIM\Desktop\proje8sonsonson\proje2\obj\Debug\proje2.Properties.Resources.resources
+C:\Users\Senih YILDIRIM\Desktop\proje8sonsonson\proje2\obj\Debug\proje2.csproj.GenerateResource.cache
+C:\Users\Senih YILDIRIM\Desktop\proje8sonsonson\proje2\obj\Debug\proje2.csproj.CoreCompileInputs.cache
+C:\Users\Senih YILDIRIM\Desktop\proje8sonsonson\proje2\obj\Debug\proje2.csproj.CopyComplete
+C:\Users\Senih YILDIRIM\Desktop\proje8sonsonson\proje2\obj\Debug\proje2.exe
+C:\Users\Senih YILDIRIM\Desktop\proje8sonsonson\proje2\obj\Debug\proje2.pdb
+C:\Users\Senih YILDIRIM\Desktop\grup63proje\grup63\proje2\bin\Debug\vtt3.mdb
+C:\Users\Senih YILDIRIM\Desktop\grup63proje\grup63\proje2\bin\Debug\proje2.exe.config
+C:\Users\Senih YILDIRIM\Desktop\grup63proje\grup63\proje2\bin\Debug\proje2.exe
+C:\Users\Senih YILDIRIM\Desktop\grup63proje\grup63\proje2\bin\Debug\proje2.pdb
+C:\Users\Senih YILDIRIM\Desktop\grup63proje\grup63\proje2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Senih YILDIRIM\Desktop\grup63proje\grup63\proje2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Senih YILDIRIM\Desktop\grup63proje\grup63\proje2\obj\Debug\proje2.csprojAssemblyReference.cache
+C:\Users\Senih YILDIRIM\Desktop\grup63proje\grup63\proje2\obj\Debug\proje2.alsat.resources
+C:\Users\Senih YILDIRIM\Desktop\grup63proje\grup63\proje2\obj\Debug\proje2.borsa.resources
+C:\Users\Senih YILDIRIM\Desktop\grup63proje\grup63\proje2\obj\Debug\proje2.Form1.resources
+C:\Users\Senih YILDIRIM\Desktop\grup63proje\grup63\proje2\obj\Debug\proje2.hesap.resources
+C:\Users\Senih YILDIRIM\Desktop\grup63proje\grup63\proje2\obj\Debug\proje2.iletisim.resources
+C:\Users\Senih YILDIRIM\Desktop\grup63proje\grup63\proje2\obj\Debug\proje2.kartekle.resources
+C:\Users\Senih YILDIRIM\Desktop\grup63proje\grup63\proje2\obj\Debug\proje2.kayitol.resources
+C:\Users\Senih YILDIRIM\Desktop\grup63proje\grup63\proje2\obj\Debug\proje2.Properties.Resources.resources
+C:\Users\Senih YILDIRIM\Desktop\grup63proje\grup63\proje2\obj\Debug\proje2.csproj.GenerateResource.cache
+C:\Users\Senih YILDIRIM\Desktop\grup63proje\grup63\proje2\obj\Debug\proje2.csproj.CoreCompileInputs.cache
+C:\Users\Senih YILDIRIM\Desktop\grup63proje\grup63\proje2\obj\Debug\proje2.csproj.CopyComplete
+C:\Users\Senih YILDIRIM\Desktop\grup63proje\grup63\proje2\obj\Debug\proje2.exe
+C:\Users\Senih YILDIRIM\Desktop\grup63proje\grup63\proje2\obj\Debug\proje2.pdb
